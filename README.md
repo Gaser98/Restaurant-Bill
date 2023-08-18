@@ -9,6 +9,7 @@ Created a custom type struct as a template for the bills with a receiver functio
 # Files
 
 bill.go : bill template,new bills,format function
+
 main.go : function call
 
 
