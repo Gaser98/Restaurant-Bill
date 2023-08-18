@@ -21,3 +21,8 @@ go run main.go bill.go
 ```
 
 
+## Output 
+
+
+![image](https://github.com/Gaser98/Restaurant-Bill/assets/76227165/8d14bfda-d2ff-4491-bedf-4731c8c7bf0e)
+
